@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="str.__pos__" />
+          <option value="random.random.randint" />
+          <option value="int.count" />
+          <option value="int.*" />
+          <option value="dict.sort" />
+          <option value="dict.*" />
+          <option value="matplotlib.pyplot" />
+          <option value="numpy.array" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
